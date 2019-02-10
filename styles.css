@@ -1,0 +1,23 @@
+div {
+  font-size: 20px;
+  width: 500px;
+  background-color: yellow;
+}
+
+html {
+  font-size: 18px;
+}
+
+.rem,em {
+  display: inline-block;
+}
+
+.em {
+  padding: 2em;
+  background-color: grey;
+}
+
+.rem {
+  padding: 3rem;
+  background-color: cyan;
+}
